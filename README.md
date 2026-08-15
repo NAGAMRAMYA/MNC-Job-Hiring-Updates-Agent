@@ -46,3 +46,16 @@ A structured MNC job hiring update is generated and sent to email.
 ## 🔐 Security
 
 API keys, passwords, tokens, and private credentials are not included in this repository.
+
+## 🧠 Skills Demonstrated
+
+- AI Agent Workflow Design
+- Prompt Engineering
+- LLM Integration
+- Dify Workflow Automation
+- Gemini 3.5 Flash
+- HTTP API Integration
+- Email Automation with Resend
+- JSON
+- Workflow Testing & Debugging
+- GitHub Project Documentation
