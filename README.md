@@ -1,9 +1,9 @@
-## 📸Project Screenshots
+## 📸 Project Screenshots
 
 ### Dify Workflow
 
-![Dify Workflow](dify-workflow.png)
+![Dify Workflow](./dify-workflow.png)
 
 ### Email Output
 
-![Email Output](email-output.png)
+![Email Output](./email-output.png)
