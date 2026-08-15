@@ -59,3 +59,15 @@ API keys, passwords, tokens, and private credentials are not included in this re
 - JSON
 - Workflow Testing & Debugging
 - GitHub Project Documentation
+
+##Components
+
+  | Component        | Purpose                              |
+| ---------------- | ------------------------------------ |
+| Dify             | Workflow orchestration               |
+| User Input       | Receives job information             |
+| Gemini 3.5 Flash | Analyzes and formats the job details |
+| HTTP Request     | Sends the email request              |
+| Resend           | Delivers the email                   |
+| Gmail/Email      | Receives the job update              |
+
